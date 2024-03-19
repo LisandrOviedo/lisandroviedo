@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Lisandro Oviedo</h1>
-<h3 align="center">Un apasionado desarrollador full stack de Venezuela 🇻🇪</h3>
+<h3 align="center">Un apasionado desarrollador full stack de Venezuela</h3>
 
 - 📫 Correo electrónico **lisandroviedo@hotmail.com**
 
