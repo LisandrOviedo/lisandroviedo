@@ -1,5 +1,10 @@
 <h1 align="center">Hola 👋, mi nombre es Lisandro Oviedo</h1>
 <h3 align="center">Un apasionado desarrollador full stack de Venezuela</h3>
+<ul>
+  <li>Desarrollador Full Stack</li>
+  <li>Ingeniero en Computación</li>
+  <li>Técnico Superior Universitario en Informática</li>
+</ul>
 
 - 📫 Correo electrónico **lisandroviedo@hotmail.com**
 
